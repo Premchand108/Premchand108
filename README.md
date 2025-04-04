@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prem Chand</h1>
-<h3 align="center">A passionate Database Engineer from a Pakistan</h3>
+<h3 align="center">A passionate Python Developer from a Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premchand108&label=Profile%20views&color=0e75b6&style=flat" alt="premchand108" /> </p>
 
