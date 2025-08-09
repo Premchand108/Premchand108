@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prem Chand</h1>
-<h3 align="center">I am a passionate Artificial Intelligence student and Python developer with a strong foundation in machine learning, deep learning, and software development</h3>
+<h3 align="center">I am a passionate Artificial Intelligence student and aspiring Data Scientist, skilled in machine learning, deep learning, and software development. Proficient in Python and its key libraries, with experience in Flask and Django for backend development, as well as MySQL for database management. I thrive on building intelligent, data-driven applications that bridge the gap between AI research and practical software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premchand108&label=Profile%20views&color=0e75b6&style=flat" alt="premchand108" /> </p>
 
