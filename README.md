@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Prem Chand</h1>
-<h3 align="center">I am a passionate Artificial Intelligence student and aspiring Data Scientist, skilled in machine learning, deep learning, and software development. Proficient in Python and its key libraries, with experience in Flask and Django for backend development, as well as MySQL for database management. I thrive on building intelligent, data-driven applications that bridge the gap between AI research and practical software solutions.</h3>
+<h3 align="center">I am an AI Engineer focused on building intelligent applications and solving real-world problems using Python, Machine Learning, Deep Learning, and Generative AI. My work centers on developing practical AI solutions and integrating machine learning models into applications using modern technologies.
+
+My focus is on combining AI technologies with backend development to build practical, scalable, and reliable applications.
+
+Technical Skills & Interests
+Programming: Python 
+Machine Learning & Deep Learning: Model development, training, evaluation, and prediction 
+Generative AI & LLMs : Exploring large language models and AI-powered applications
+Computer Vision: Image processing and visual recognition using OpenCV
+Backend Development: FastAPI and Flask for building APIs and integrating AI models
+
+I enjoy learning new technologies, developing hands-on projects, and turning ideas into working applications. I am continuously strengthening my technical skills and gaining practical experience to prepare for real-world engineering challenges.
+
+Career Interests
+I am interested in opportunities as an AI Engineer, Machine Learning Engineer, Python Developer, or AI/ML Intern, where I can contribute to meaningful projects, collaborate with experienced teams, and continue growing professionally.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premchand108&label=Profile%20views&color=0e75b6&style=flat" alt="premchand108" /> </p>
 
