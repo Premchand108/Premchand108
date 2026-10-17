@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prem Chand</h1>
+<h1 align="center">Hi, I'm Prem Chand</h1>
 <h3 align="center">I am an AI Engineer focused on building intelligent applications and solving real-world problems using Python, Machine Learning, Deep Learning, and Generative AI. My work centers on developing practical AI solutions and integrating machine learning models into applications using modern technologies.
 
 My focus is on combining AI technologies with backend development to build practical, scalable, and reliable applications.
